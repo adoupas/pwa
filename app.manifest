@@ -1,0 +1,36 @@
+{
+  "name": "Super App",
+  "short_name": "Super",
+  "start_url": "index.html",
+  "id": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#db4938",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icons8-idea-32.png",
+      "type": "image/png", "sizes": "32x32"
+    },
+    {
+      "src": "/icons/icons8-idea-64.png",
+      "type": "image/png", "sizes": "64x64"
+    },
+    {
+      "src": "/icons/icons8-idea-96.png",
+      "type": "image/png","sizes": "96x96"
+    },
+    {
+      "src": "/icons/icons8-idea-128.png",
+      "type": "image/png", "sizes": "128x128"
+    },
+    {
+      "src": "/icons/icons8-idea-256.png",
+      "type": "image/png", "sizes": "256x256"
+    },
+    {
+      "src": "/icons/icons8-idea-512.png",
+      "type": "image/png", "sizes": "512x512"
+    }
+  ]
+}
